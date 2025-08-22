@@ -33,6 +33,12 @@ This project provides a **Power BI dashboard** for analyzing car dealership perf
 
 ---
 
+## 📸 Dashboard Preview
+
+### Dashboard Screenshot
+![Dashboard Screenshot](dashboard.png)
+
+
 ## 📑 Dashboard Report (PDF)
 
 You can view the full interactive report as a PDF here:  
